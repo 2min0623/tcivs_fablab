@@ -7,7 +7,7 @@ import about from '../components/about.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/tcivs_fablab',
     component: home
   },
   {
