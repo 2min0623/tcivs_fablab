@@ -1,7 +1,7 @@
 <template>
     <div class="photo_with_intrduce">
         <div>
-            <img src="C:\Users\PTWA\Desktop\practice\vite-project\src\assets\falab.jpg">
+            <img src="@/assets/falab.jpg">
         </div>
         <div class="intrduce_text">
             <div><h3>電子電路</h3></div> 

@@ -1,7 +1,7 @@
 <template>
     <div class="photo_with_intrduce">
         <div>
-            <img src="C:\Users\PTWA\Desktop\practice\vite-project\src\assets\carpentry.jpg">
+            <img src="@/assets/carpentry.jpg">
         </div>
         <div class="intrduce_text">
             <div><h3>木工</h3></div> 

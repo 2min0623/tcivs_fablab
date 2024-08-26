@@ -1,7 +1,7 @@
 <template>
     <div class="photo_with_intrduce">
         <div>
-            <img src="../../assets/falab.jpg" alt="自造實驗室">
+            <img src="@/assets/falab.jpg" alt="自造實驗室">
         </div>
         <div class="intrduce_text">
             <div>
