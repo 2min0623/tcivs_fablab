@@ -40,6 +40,7 @@ body>div {
 body>div>div {
   place-items: center;
   max-width: 1000px;
+  width: 80%;
 }
 
 
@@ -53,6 +54,10 @@ h1 {
   padding: 20px;
   padding-left: 40px;
   padding-right: 40px;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 button {
@@ -84,6 +89,7 @@ button:focus-visible {
   display: flex;
   place-items: start;
   width: 80%;
+  margin-bottom: 50px;
 }
 
 .photo_with_intrduce>div {

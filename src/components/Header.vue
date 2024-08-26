@@ -1,6 +1,7 @@
 <template>
     <header class="header">
-        <router-link to="/"><img src="../assets/tcivs_3Dmaker_LOGO.png"></router-link>
+        <router-link to="/"><img src="@/assets/tcivs_3Dmaker_LOGO.png"></router-link>
+        <h3>臺中高工3D創客社</h3>
         <nav>
             <router-link to="/">首頁</router-link>
             <router-link to="/instruction">教學</router-link>
@@ -34,16 +35,18 @@ export default {
     display: flex;
     width: 100%;
     background-color: #4E4B5C;
+    place-items: center;
 }
 
 .header img {
     width: 50px;
-    height: 100%;
+    height: auto;
+    margin-left:10px ;
 }
 
 .header nav {
     display: flex;
-    width: 100%;
+    width: 80%;
     justify-content: flex-end;
     place-items: center;
 }
@@ -61,4 +64,9 @@ export default {
     cursor: pointer;
 }
 
+h3{
+    padding: 0;
+    margin-left: 5px;
+    width:200px;
+}
 </style>

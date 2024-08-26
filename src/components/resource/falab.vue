@@ -13,7 +13,6 @@
             </div>
         </div>
     </div>
-    <br>
     <hr class="rounded">
     <h2>設備</h2>
     <div class="photo_with_intrduce">
@@ -29,7 +28,7 @@
                 <li>最大打印尺寸：150 x 150 x 150 mm (LxWxH)</li>
                 <li>打印精度：0.1mm – 0.4mm</li>
                 <li>打印材料線徑：1.75mm</li>
-                <li>噴嘴數量：１</li>
+                <li>噴嘴數量：1</li>
                 <li>噴嘴直徑：0.4mm</li>
                 <li>加熱床：有</li>
                 <li>打印材料：PLA, PET(G), ABS</li>
@@ -41,6 +40,18 @@
             </ul>
             <h4>功能與角色</h4>
             <p>Adventerer 3 3D列印機為本社團數量最多的3D列印機，列印小型成品為主，底板平台為快速抽取式，主要用途為提供社員初階教學及外界申請使用。</p>
+        </div>
+    </div>
+    <div class="photo_with_intrduce">
+        <div>
+            <img src="../../assets/AD3.jpg">
+        </div>
+        <div class="equipment">
+            <h3>Laser System TAZ-13090</h3>
+            <p>雷射切割機是本社核心工具，在展覽和專題製作中不可或缺。快速將3D圖檔轉換為實體作品，廣泛應用於製作模型、裝飾品等。適用於木材、壓克力等多種材料，滿足不同專題製作的需求。雷射切割機為本社帶來了靈活、高效且高品質的製作體驗。</p>
+            <br>
+            <p>TAZ-13090雷射金屬非金屬混合切割機</p>
+            <a href="https://www.youtube.com/watch?v=CsJ2BbbxZw4">https://www.youtube.com/watch?v=CsJ2BbbxZw4</a>
         </div>
     </div>
 
@@ -70,7 +81,7 @@ h2 {
 .equipment>h3 {
     margin: 0;
     font-size: 40px;
-    
+    margin-top: 0;
 }
 
 .equipment>h4 {
@@ -80,5 +91,7 @@ h2 {
     color: aqua;
 }
 
-
+.equipment>p{
+    margin: 0;
+}
 </style>

@@ -48,21 +48,12 @@ export default {
 <style scoped>
 div {
     text-align: center;
-    place-items: center;
-    width: 80%;
 }
 
-h2 {
-    font-size: 40px;
-}
-
-p {
-    place-items: center;
-    text-align: center;
-    /* word-break: break-all;
-    word-wrap: break-word; */
-
-}
+/*p {
+    word-break: break-all;
+    word-wrap: break-word; 
+}*/
 
 .club_core {
     display: flex;

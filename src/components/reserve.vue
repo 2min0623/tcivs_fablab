@@ -1,7 +1,5 @@
 <template>
-    <div>
-        <h1>預約</h1>
-    </div>
+    <h1>預約</h1>
 </template>
 
 <script>
