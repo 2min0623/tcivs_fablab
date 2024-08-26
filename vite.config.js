@@ -4,7 +4,7 @@ import {fileURLToPath, URL} from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/tcivs_fablab',
+  base: '/tcivs_fablab/',
   plugins: [vue()],
   resolve: {
     alias: {
