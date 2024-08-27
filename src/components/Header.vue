@@ -3,7 +3,7 @@
         <router-link to="/"><img src="@/assets/tcivs_3Dmaker_LOGO.png"></router-link>
         <h3>臺中高工3D創客社</h3>
         <nav>
-            <router-link to="/">首頁</router-link>
+            <router-link to="/tcivs_fablab/">首頁</router-link>
             <router-link to="/instruction">教學</router-link>
             <router-link to="/resource/falab">資源</router-link>
             <router-link to="/reserve">預約</router-link>
